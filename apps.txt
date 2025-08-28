@@ -1,0 +1,11 @@
+```text
+# Web Browsers
+Microsoft.Edge
+Google.Chrome
+
+# Productivity
+7zip.7zip
+Git.Git
+
+# Communication
+SlackTechnologies.Slack
