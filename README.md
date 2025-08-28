@@ -9,3 +9,6 @@ PowerShell-based installer for winget and bulk app deployment.
    ```powershell
    git clone https://github.com/divemarkus/winget-setup.git
    cd winget-setup
+3. Run the installer:
+   ```powershell
+   .\install-winget.ps1
