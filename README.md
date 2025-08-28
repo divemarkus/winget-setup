@@ -18,7 +18,7 @@ PowerShell-based installer for winget and bulk app deployment.
 ### How It Works
 * Install-WinGet:
 
-*Calls GitHub’s REST API to grab the latest .msixbundle.
+* Calls GitHub’s REST API to grab the latest .msixbundle.
 
 * Uses Add-AppxPackage to install silently.
 
@@ -33,6 +33,6 @@ PowerShell-based installer for winget and bulk app deployment.
 
 * Edit apps.txt with your favorite app IDs from the winget package index.
 
-Run .\install-winget.ps1 as Administrator.
+* Run .\install-winget.ps1 as Administrator.
 
-With this in place, you’ve got a reproducible, version-controlled way to bootstrap new machines or CI images with your standard toolset.
+* With this in place, we’ve got a reproducible, version-controlled way to bootstrap new machines or CI images with your standard toolset.
